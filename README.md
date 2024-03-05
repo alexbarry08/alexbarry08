@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Alex, this is my work blog:
+
 <!--
 **alexbarry08/alexbarry08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
